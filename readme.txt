@@ -1,0 +1,1 @@
+konfigurasi database ada di folder application/config/database.php
